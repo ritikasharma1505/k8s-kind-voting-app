@@ -1,3 +1,0 @@
-### Demo kind-cluster-demo
-
-
